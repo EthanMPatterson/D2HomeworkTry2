@@ -10,8 +10,8 @@
 #mainlogo{
     height: 75px;
     width: 135px;
-    margin-left: 850px;
-    margin-right: 400px;
+    margin-left: 42%;
+    margin-right: -60%;
     margin-bottom: 0%;
 }
 
@@ -21,12 +21,12 @@
 }
 
 .forgot{
-color: blue;
+color: rgb(0, 162, 255);
 text-align: right;
 }
 
 #help{
-    color: blue;
+    color: rgb(0, 162, 255);
 
 }
 
@@ -35,7 +35,9 @@ text-align: right;
 }
 
 #button2{
-    margin-left: 825px;
+    margin-left: 850px;
+    
+    
 }
 
 h1{
@@ -51,6 +53,8 @@ margin-top: -50px;
     height: 30px;
     margin-top: 35px;
     margin-left: -55px;
+    
+
 }
 
 .inputs{
@@ -58,12 +62,13 @@ margin-top: -50px;
     height: 30px;
     margin-right: 250px;
     margin-left: -28px;
+    position: relative;
 }
 
 footer{
-    color: blue;
+    color: rgb(0, 162, 255);
     margin-left: 850px;
-    margin-top: 300px;
+    margin-top: 250px;
 }
 
 #rights{
